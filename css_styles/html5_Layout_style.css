@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css?family=Laila');
+body {
+  border: 2px black solid;
+  margin: 0 auto;
+  width: 100%;
+  
+}
+header {
+  /*border-bottom: 2px black solid;*/
+  font-weight: bold;
+  text-align: center;
+  font-size: 30px;
+  height:60px;
+  background-color:black;
+  color:white;
+  
+}
+nav   {
+  border-bottom: 2px solid black;
+  height:40px;
+  padding: 0.8em;
+  padding-left:15px;
+  background-color:black;
+}
+section{
+  border:2px solid white;
+  
+  
+}
+hgroup{
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  font-size:25px;
+  font-family:Laila;
+}
+iframe{
+  height:200px;
+    width:100%;
+}
+h6{
+	text-align:center;
+	background-color:white;
+}
+#clm1{
+  border: 2px solid #e3e3e3;
+  margin: 1%;
+  float: left;
+  width: 29%;
+  height: 200px;
+  background-color: #f5f5f5;
+  border-radius:4px;
+  margin-top: 100px;
+}
+#clm2{
+  border: 2px solid #e3e3e3;
+  margin: 1%;
+  float: left;
+  width: 29%;
+  height: 200px;
+  background-color:#f5f5f5;
+  border-radius:4px;
+  margin-top: 100px;
+}
+
+#clm3{
+  border: 2px solid #e3e3e3;
+  width: 60%;
+  height: 200px;
+  background-color: #f5f5f5;
+  margin-top:240px;
+  margin-left:1%;
+  border-radius:4px;
+  margin-top: 350px;
+  
+}
+
+.contain_data{
+  overflow:scroll;
+  height:300px;
+  margin:1%;
+  background-color:
+}
+aside{
+  border: 2px white solid;
+  float: right;
+  width: 35%;
+  margin: 1%;
+  background-color: white;
+  margin-top: -380px;
+  display:block;
+  
+}
+footer {
+  border-top: 2px black solid;
+  height:60px;
+  background-color: #333;
+  color:white;
+  margin-top:80px;
+}
+#right_alignment{
+  text-align:right;
+  margin:1%;
+}
+
+#floating_div{
+  
+  position:fixed;
+  right:0.1%;
+  background-color:#FFAB91;
+  height:70px;
+  width:160px;
+  font-weight:bold;
+  opacity:0.7;
+}
+#floating_div:hover
+{
+  opacity:1;
+}
